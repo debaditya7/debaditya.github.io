@@ -130,7 +130,7 @@ function animateRaindrops() {
 function animateParticles() {
   ctx.clearRect(0, 0, canvas.width, canvas.height);
   // Rain drops effect
-  animateRaindrops();
+  //animateRaindrops();
   // Neural network effect
   animateNeuralNetwork();
   // Draw particles
